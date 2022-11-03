@@ -20,20 +20,20 @@ body {
     background-size: cover;
 }
 
-.h1 {
+h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 120px auto;
     padding: 25px;
 }
 
-.h2 {
+h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 120px auto;
     padding: 25px;
 }
 
 .wrapper {
-    background: #fff;
+    background: rgb(206, 187, 187);
     max-width: 400px;
     width: 100%;
     margin: 120px auto;
